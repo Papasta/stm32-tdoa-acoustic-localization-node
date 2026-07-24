@@ -126,7 +126,6 @@ Fixed-length frame containing:
 │   ├── Drivers/
 │   └── ...
 ├── docs/                  # Thesis (RPN), schematics, test reports
-├── hardware/              # Bill of materials, wiring diagrams
 └── README.md
 ```
 
