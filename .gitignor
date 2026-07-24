@@ -1,0 +1,24 @@
+# Build artifacts
+*/build/
+*/Debug/
+*/Release/
+*/.settings/
+*/.mxproject
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.ld
+
+# IDE
+*/.cproject
+*/.project
+*/.idea/
+*/.vscode/
+*.launch
+
+# OS
+Thumbs.db
+Desktop.ini
