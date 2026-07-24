@@ -166,7 +166,7 @@ The system was validated outdoors using pyrotechnic sound sources ("Korsar K0401
 
 ## Author
 
-**Ilya E. Leontyev**  
+**Igor E. Leontev**  
 Group IU3-81B  
 Faculty of Informatics and Control Systems  
 Moscow State Technical University named after N.E. Bauman (MSTU)
